@@ -22,7 +22,9 @@ The mnist dataset can be directly imported into the Python file (assuming Keras 
   - Number of neurons in the hidden layers: 1000 (each)
   
 ## Results 
+
 **MNIST Handwritten Digits Recognition from Scratch**
+
 I've used numpy arrays for matrices and numpy operations such as np.dot, np.matmul, np.add, np.subtract and so on for performing matrix operations in order to simulate a feedforward neural network. The helper functions also utilize the math library in Python.
 I only used ten test cases and have included six here. The accuracy of the model has not been calculated. There were two incorrect predictions out of the ten that I observed. 
 
@@ -33,6 +35,7 @@ I only used ten test cases and have included six here. The accuracy of the model
 *The last prediction shown here is incorrect since a 100% accuracy wasn't achieved* 
 
 **MNIST Handwritten Digits Recognition using Tensorflow**
+
 I used Tensorflow's API calls in order to define the layers for the model, compile the model with the adam optimizer, sparse categorical crossentropy loss function, and accuracy as the evaluation metric. The picture shows a randomly selected test case and the prediction made by the model. 
 
 ![mnist4](https://raw.githubusercontent.com/7122indigogondolier/mnist-ffnn/master/mnist4.png)

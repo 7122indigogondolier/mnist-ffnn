@@ -24,6 +24,11 @@ The mnist dataset can be directly imported into the Python file (assuming Keras 
 ## Results 
 **MNIST Handwritten Digits Recognition from Scratch**
 ![mnist1](https://raw.githubusercontent.com/7122indigogondolier/mnist-ffnn/master/mnist1.png)
+![mnist2](https://raw.githubusercontent.com/7122indigogondolier/mnist-ffnn/master/mnist2.png)
+![mnist3](https://raw.githubusercontent.com/7122indigogondolier/mnist-ffnn/master/mnist3.png)
+
+**MNIST Handwritten Digits Recognition using Tensorflow**
+![mnist4](https://raw.githubusercontent.com/7122indigogondolier/mnist-ffnn/master/mnist4.png)
 
 Author: Utkrist P. Thapa 
 

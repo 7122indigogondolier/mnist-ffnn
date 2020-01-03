@@ -1,3 +1,8 @@
+"""
+Author: Utkrist P. Thapa
+This is a Tensorflow implementation of a feedforward neural network that can
+learn to recognize handwritten digits ranging from 0-9 in the MNIST dataset
+"""
 import tensorflow as tf
 from keras.models import Sequential 
 from keras.datasets import mnist 

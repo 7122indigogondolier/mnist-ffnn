@@ -20,6 +20,10 @@ The mnist dataset can be directly imported into the Python file (assuming Keras 
   - Learning rate: 0.1 
   - Number of hidden layers: 2
   - Number of neurons in the hidden layers: 1000 (each)
+  
+## Results 
+**MNIST Handwritten Digits Recognition from Scratch**
+![mnist1](~/Desktop/mnist1)
 
 Author: Utkrist P. Thapa 
 

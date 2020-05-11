@@ -1,6 +1,6 @@
 # MNIST Feed-Forward Neural Network 
 
-Implemented by Utkrist P Thapa 
+Implemented by Utkrist P Thapa,  
 Washington and Lee University 
 
 ## Brief Description 
